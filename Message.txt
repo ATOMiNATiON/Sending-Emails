@@ -1,0 +1,6 @@
+Subject: Testing python email
+
+Hi {},
+
+I hope you are doing well. This is an email using python!
+- ATOMiNATiON
